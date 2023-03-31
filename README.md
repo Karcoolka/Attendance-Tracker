@@ -1,5 +1,5 @@
 # Attendance-Tracker
-## Green Fox Academy :fox_face: Panthera Ripped - Java&NextJS
+## Green Fox Academy :fox_face: Panthera Ripped - Java SpringBoot Application
 Final project at the Green Fox Academy.  
 ### CtrlAltElite Team
 **Project Leader:**  
