@@ -1,6 +1,6 @@
 # Attendance-Tracker
 ## Green Fox Academy :fox_face: Panthera Ripped - Java&NextJS
-This is the repo for our final project at the Green Fox Academy.  
+Final project at the Green Fox Academy.  
 ### CtrlAltElite Team
 **Project Leader:**  
 Jakub Korch - [GitHub](https://github.com/j-cup)  
